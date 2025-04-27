@@ -1,3 +1,6 @@
+# Note:
+Most of the links are broken after the translation. Feel free to fix it if you have spare time.
+
 # Programmer's Guide to Cooking
 
 [![build](https://github.com/Anduin2017/HowToCook/actions/workflows/build.yml/badge.svg)](https://github.com/Anduin2017/HowToCook/actions/workflows/build.yml)

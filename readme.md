@@ -1,6 +1,11 @@
 # Note:
 Most of the links are broken after the translation. Feel free to fix it if you have spare time.
 
+## Use below command to combine the db files under `data`
+```
+cat db_chunk_* > mydb.sql
+```
+
 # Programmer's Guide to Cooking
 
 [![build](https://github.com/Anduin2017/HowToCook/actions/workflows/build.yml/badge.svg)](https://github.com/Anduin2017/HowToCook/actions/workflows/build.yml)
